@@ -1,0 +1,258 @@
+
+#Body{
+    padding: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.Nav{
+    float: right;
+}
+.Logo{
+    color: brown;
+    float: left;
+    font-size: 200%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva;
+    margin-left: 150px;
+    
+}
+.Name{
+     margin-top: 15%;
+     font-size: 350%;
+     float: left;
+     margin-right: 7%;
+     color: aliceblue;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#Header{
+    position: -webkit-sticky;
+    position: sticky;
+     top: 0;
+     padding: 20px;
+    margin-top: 0px;
+    z-index: 1;
+    background-color: rgb(216, 217, 239);
+    line-height: 10px;
+    display: block;
+    width: 100%;
+    height: 80px;
+}
+nav{
+    height: 10px;
+    
+    box-shadow: rgb(233, 236, 240);
+    margin-right: 10%;
+    margin-left: 0px;
+    background-color: white;
+    float: right;
+    line-height: 60px;
+    
+    
+    
+    }
+    nav ul{
+    padding: 0px;
+    
+    margin: 0px;
+    
+    margin-right: 0px;
+    color: rgb(246, 242, 242);
+    font-style:normal;
+    
+    
+    }
+    nav ul li{
+    line-height: 10px;
+    position: relative;
+    display: inline-block ;
+    list-style: none;
+    color: rgb(243, 238, 238);
+    background-color: white;
+    float: left;
+    
+    }
+    
+    
+    nav ul li a{
+    display:block;
+    padding: 15px;
+    color: rgb(12, 14, 12);
+    text-decoration:wavy;
+    line-height: 10px;
+    font-size: 20px;
+    color: rgb(8, 8, 8);
+    font-weight: bold;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    nav ul li a:hover{
+     border-bottom: 3px solid rgb(77, 7, 226);
+     color: rgb(53, 6, 245);
+     
+    }
+    #ProfilePic{
+      margin-top: 10% ;
+      border-radius: 50px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      
+    }
+    .AboutMe{
+        font-size: 50px;
+        color:rgb(31, 31, 84);
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .des{
+        font-size: 25px;
+        color:rgb(31, 31, 84);
+        margin-top: 1%;
+    }
+    .Pos{
+        font-size: 20px;
+        color: aqua;
+        margin-left: 20%;
+    }
+    .Cont1{
+        background-color: rgb(27, 27, 62);
+        margin-top: 5%;
+        padding: 2%;
+        border-radius: 20px;
+        padding-bottom: 5%;
+    }
+    #Image2{
+        float: left;
+        border-radius: 20px;
+        margin-right: 10%;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    .Cont2{
+        margin-top: 8%;
+        
+       
+    }
+    #PeDetails{
+        color: crimson;
+        font-size: 20px;
+        font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: bold;
+        margin-top: 5%;
+    }
+    .des{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    #Btext{
+        color: white;
+        text-decoration: none;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+    .Card1{
+        float: left;
+        margin-right: 10%;
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    .Card3{
+        float: left;
+        margin-right: 8%;
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    .Card5{
+        margin-right: 50%;
+        margin-left: 8%;
+        margin-top: 5%;
+        
+        
+    }
+    .EduHead{
+        margin-top: 7%;
+        font-size: 50px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(38, 66, 11);
+    }
+    #Name{
+        float: left;
+        margin-right: 10%;
+    }
+    .Input{
+        border-radius: 10px;
+        height: 100%;
+        width: 20%;
+        padding: 1%;
+    }
+    .Email{
+        border-radius: 10px;
+        height: 100%;
+        width: 50%;
+        padding: 1%;
+        margin-top: 2%;
+    }
+    #txt{
+        border-radius: 10px;
+        height: 200px;
+        width: 50%;
+        padding: 1%;
+        margin-top: 2%; 
+    }
+    .ContDet{
+        margin-top: 5%;
+        background-color: rgb(211, 205, 232);
+        padding: 5%;
+        padding-bottom: 20%;
+    }
+    .LastLine{
+        margin-top: 0%;
+        background-color: rgb(113, 60, 249);
+        padding: 1%;
+        text-align: center;
+        color: aliceblue;
+        font-size: 20px;
+    }
+   
+    .img{
+
+         float: left;
+    }
+    .img:hover{
+        transform: scale(5,5);
+       
+       
+    }
+    .WebMobile{
+        border-radius: 20px;
+       
+    }
+    .WebMobile:hover{
+        box-shadow: 0 10px 20px 0px rgb(72, 40, 51), 0 6px 20px 0 rgba(244, 9, 9, 0.19);
+        
+    }
+    #Pro{
+        margin-top: 7%;
+        font-size: 50px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(101, 18, 18);
+    }
+    #ProHead{
+        text-align: center;
+        font-size: 150%;
+        margin-bottom: 10%;
+
+    }
+    #myBtn {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        z-index: 99;
+        font-size: 18px;
+        border: none;
+        outline: none;
+        background-color: red;
+        color: white;
+        cursor: pointer;
+        padding: 15px;
+        border-radius: 4px;
+      }
+      
+      #myBtn:hover {
+        background-color: rgb(25, 16, 66);
+      }
