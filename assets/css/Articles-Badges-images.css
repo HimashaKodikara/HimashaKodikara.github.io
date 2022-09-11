@@ -1,0 +1,19 @@
+.fit-cover {
+  object-fit: cover;
+  /*height: 260px;*/
+  /*width: 415px;*/
+}
+
+section {
+}
+
+img {
+  width: 160%;
+  height: 99%;
+  margin-right: 36px;
+}
+
+.navbar-toggler {
+  margin-top: -62px;
+}
+

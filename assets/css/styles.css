@@ -1,0 +1,41 @@
+#navcol-5 {
+  /*width: 14%;*/
+  /*margin-left: 63%;*/
+}
+
+.Edu {
+  margin-right: -42px;
+}
+
+section {
+  margin-top: 5%;
+}
+
+section {
+}
+
+#WebDesign:hover {
+  box-shadow: 0 10px 20px 0px rgb(72, 40, 51), 0 6px 20px 0 rgba(244, 9, 9, 0.19);
+  /*border-radius: 21px;*/
+  /*width: 375.625px;*/
+}
+
+#MobileDesign:hover {
+  box-shadow: 0 10px 20px 0px rgb(72, 40, 51), 0 6px 20px 0 rgba(244, 9, 9, 0.19);
+  /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+  /*height: 261px;*/
+  /*border-radius: 21px;*/
+  /*width: 375.625px;*/
+}
+
+.fit-cover {
+  height: 271px;
+  border-radius: 21px;
+  width: 375.625px;
+}
+
+.text-muted {
+  --bs-text-opacity: 1;
+  color: #eef2f5!important;
+}
+
