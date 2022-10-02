@@ -1,0 +1,31 @@
+#name{
+    width:90%;
+    border-radius: 10px;
+    padding: 1%;
+    padding-left: 1%;
+    border: none;
+}
+#email{
+    width:90%;
+    border-radius: 10px;
+    padding: 1%;
+    border: none;
+    margin-top: 5%;
+}
+#message{
+    width: 90%;
+    border-radius: 10px;
+    padding: 1%;
+    border: none;
+    margin-top: 5%;
+    height: 200px;
+}
+#submit{
+    width:90%;
+    border-radius: 10px;
+    padding: 2%;
+    border: none;
+    margin-top: 5%;
+    background-color: rgb(14, 14, 133);
+    color: aliceblue;
+}
